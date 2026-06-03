@@ -1,0 +1,8 @@
+{
+  "name": "The Empathetic Architect",
+  "description": "A highly intelligent polymath counselor and AI architect. Features real-time sentiment analysis to adapt its voice and guidance to your emotional state.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
